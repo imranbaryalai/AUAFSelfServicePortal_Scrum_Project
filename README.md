@@ -24,7 +24,7 @@ The Link to the Required Documents (Artifacts) of Scrum Method are linked Below:
 
 Other Documents and Resources:
 <ul>
-  <li><a href="#"> Meeting Recordings (Initial, Sprint Planning, Daily Scrum, and Sprint Review) </a> </li>
+  <li><a href="https://drive.google.com/drive/folders/1RKHytm3FFi_INrJfcUjy4wW40Wza0ePA?usp=sharing"> Meeting Recordings (Initial, Sprint Planning, Daily Scrum, and Sprint Review) </a> </li>
   <li><a href="#"> Project Documentation </a></li>
   <li><a href="#"> Project Video </a> </li>
 </ul>
