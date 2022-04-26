@@ -2,7 +2,6 @@ package com.nextgendevs.auaf_stu_adv_app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.nextgendevs.auaf_stu_adv_app.R
 
 class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
