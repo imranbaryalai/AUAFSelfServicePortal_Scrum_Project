@@ -1,6 +1,10 @@
 <resources>
-    <dimen name="textView_fontSize">13sp</dimen>
-    <dimen name="textView_marginHorizontal">15dp</dimen>
-    <dimen name="buttonSize">65dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="short_margin">8dp</dimen>
+    <dimen name="divider_margin">60dp</dimen>
+    <dimen name="editTextPadding">16dp</dimen>
+    <dimen name="editTextMargin">16dp</dimen>
+    <dimen name="very_short_margin">4dp</dimen>
 
+    <!-- for mobile devices -->
 </resources>

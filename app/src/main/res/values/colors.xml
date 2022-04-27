@@ -3,9 +3,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="AUAF_DarkBlue_Color">#213164</color>
-    <color name="AUAF_Green_Color">#7FA647</color>
-    <color name="AUAF_Blue_Color">#1A75B9</color>
+    <color name="colorPrimaryDark">#213164</color>
+    <color name="colorPrimary">#1A75B9</color>
+    <color name="colorSecondary">#7FA647</color>
 
 
     <color name="textView_fontColor">#737373</color>
