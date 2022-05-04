@@ -1,10 +1,12 @@
 <resources>
     <dimen name="default_margin">16dp</dimen>
-    <dimen name="short_margin">8dp</dimen>
+    <dimen name="short_margin">10dp</dimen>
     <dimen name="divider_margin">60dp</dimen>
     <dimen name="editTextPadding">16dp</dimen>
     <dimen name="editTextMargin">16dp</dimen>
     <dimen name="very_short_margin">4dp</dimen>
+    <dimen name="tbl_title_fontSize">40sp</dimen>
+    <dimen name="tbl_subtitle_fontSize">20sp</dimen>
 
     <!-- for mobile devices -->
 </resources>

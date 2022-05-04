@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true"
-    tools:context=".LoginActivity"
+    tools:context=".RegisterActivity"
     >
 
     <!-- The Login Header Section -->
@@ -20,22 +20,24 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="3"
+            android:layout_weight="2.5"
             android:gravity="center"
             android:orientation="vertical">
 
             <ImageView
                 android:id="@+id/imageView"
-                android:layout_width="150dp"
-                android:layout_height="150dp"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
                 android:src="@drawable/auaf_dark_logo"/>
 
             <TextView
                 android:id="@+id/welcomeText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textSize="@dimen/tbl_title_fontSize"
                 android:paddingTop="@dimen/short_margin"
-                android:text="Welcome back!"
+                android:layout_marginTop="@dimen/short_margin"
+                android:text="Welcome!"
                 android:textStyle="bold"
                 android:textAppearance="@style/TextAppearance.AppCompat.Title"
                 android:fontFamily="@font/opensans"
@@ -52,10 +54,11 @@
                 android:id="@+id/loginText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textSize="@dimen/tbl_subtitle_fontSize"
                 android:paddingTop="@dimen/very_short_margin"
                 android:textAppearance="@style/TextAppearance.AppCompat.Small"
                 android:fontFamily="@font/arvo"
-                android:text="Login to your account"/>
+                android:text="Please register for your Account"/>
 
         </LinearLayout>
 
@@ -64,9 +67,9 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="3"
+            android:layout_weight="3.5"
             android:layout_margin="@dimen/default_margin"
-            android:gravity="center_horizontal"
+            android:gravity="center"
             android:padding="@dimen/short_margin"
             android:orientation="vertical">
 
@@ -79,14 +82,41 @@
                 app:boxStrokeWidthFocused="0dp"
                 >
 
-            <com.google.android.material.textfield.TextInputEditText
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:textSize="@dimen/tbl_subtitle_fontSize"
+                    android:paddingBottom="@dimen/editTextPadding"
+                    android:foreground="@drawable/darkblue_border_2dp"
+                    android:hint="@string/email"
+                    />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:background="@color/grey"
+                android:layout_marginVertical="@dimen/short_margin"/>
+
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/ThemeOverlay.Material3.AutoCompleteTextView.OutlinedBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/white"
-                android:paddingBottom="@dimen/editTextPadding"
-                android:foreground="@drawable/darkblue_border_2dp"
-                android:hint="@string/email"
-                />
+                android:layout_marginHorizontal="@dimen/short_margin"
+                app:boxStrokeWidth="0dp"
+                app:boxStrokeWidthFocused="0dp">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:textSize="@dimen/tbl_subtitle_fontSize"
+                    android:paddingBottom="@dimen/editTextPadding"
+                    android:foreground="@drawable/darkblue_border_2dp"
+                    android:hint="@string/password"
+                    />
 
             </com.google.android.material.textfield.TextInputLayout>
 
@@ -107,10 +137,11 @@
             <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:textSize="@dimen/tbl_subtitle_fontSize"
                 android:background="@color/white"
                 android:paddingBottom="@dimen/editTextPadding"
                 android:foreground="@drawable/darkblue_border_2dp"
-                android:hint="@string/password"
+                android:hint="@string/student_or_employee_id"
                 />
 
             </com.google.android.material.textfield.TextInputLayout>
@@ -128,24 +159,26 @@
                 android:orientation="vertical">
 
                 <Button
-                    android:id="@+id/loginBtn"
+                    android:id="@+id/registerBtn"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Login"
+                    android:text="Register"
+                    android:textSize="@dimen/tbl_subtitle_fontSize"
                     android:backgroundTint="@color/colorPrimaryDark"
                     android:paddingVertical="14dp"
                     android:textAppearance="@style/TextAppearance.AppCompat.Button"
                     android:layout_margin="@dimen/very_short_margin"/>
 
                 <TextView
-                    android:id="@+id/registerBtn"
+                    android:id="@+id/loginBtn"
                     android:layout_width="wrap_content"
                     android:layout_height="30dp"
+                    android:textSize="@dimen/tbl_subtitle_fontSize"
                     android:textStyle="bold"
                     android:gravity="center_vertical"
                     android:textColor="@color/colorPrimary"
                     android:textAppearance="@style/TextAppearance.AppCompat.Button"
-                    android:text="Register Account"/>
+                    android:text="Existing account, login here"/>
 
 
             </LinearLayout>
@@ -156,9 +189,10 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:gravity="center"
+            android:gravity="center_horizontal"
             android:layout_weight="1"
-            android:layout_margin="@dimen/default_margin"
+            android:layout_marginHorizontal="@dimen/very_short_margin"
+            android:layout_marginBottom="@dimen/short_margin"
             android:orientation="horizontal">
 
             <ImageButton

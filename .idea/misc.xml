@@ -24,11 +24,13 @@
         <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/font/arvo_regular.xml" value="0.396875" />
         <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/layout-land-xxxhdpi/login_activity.xml" value="0.31040564373897706" />
         <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/layout-land/login_activity.xml" value="0.33" />
-        <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/layout-sw600dp/login_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/layout-sw600dp/login_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/layout-sw600dp/register_activity.xml" value="0.33" />
         <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/layout-v23/login_activity.xml" value="0.33" />
         <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/layout/login_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/layout/login_activity.xml" value="0.33" />
         <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/layout/login_activity_new.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/layout/register_activity.xml" value="0.25" />
         <entry key="..\:/Users/Blade/Documents/GitHub/app/src/main/res/layout/splash_screen_activity.xml" value="0.33" />
       </map>
     </option>

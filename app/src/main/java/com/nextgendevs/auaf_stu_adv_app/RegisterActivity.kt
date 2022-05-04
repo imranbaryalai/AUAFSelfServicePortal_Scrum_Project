@@ -10,41 +10,41 @@ import android.widget.Toast
 import androidx.appcompat.widget.AppCompatButton
 import androidx.appcompat.widget.AppCompatImageButton
 
-class LoginActivity : AppCompatActivity() {
+class RegisterActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.login_activity)
+        setContentView(R.layout.register_activity)
 
-        val loginBtn = findViewById<Button>(R.id.loginBtn)
+        val loginBtn = findViewById<TextView>(R.id.loginBtn)
         loginBtn.setOnClickListener {
-            Toast.makeText(this@LoginActivity, "Login Button Clicked", Toast.LENGTH_SHORT).show()
-        }
-
-        val registerBtn = findViewById<TextView>(R.id.registerBtn)
-        registerBtn.setOnClickListener {
-            val intent = Intent(this@LoginActivity, RegisterActivity::class.java)
+            val intent = Intent(this@RegisterActivity, LoginActivity::class.java)
             startActivity(intent)
             finish()
         }
 
+        val registerBtn = findViewById<Button>(R.id.registerBtn)
+        registerBtn.setOnClickListener {
+            Toast.makeText(this@RegisterActivity, "Register Button Clicked", Toast.LENGTH_SHORT).show()
+        }
+
         val facebookBtn = findViewById<ImageButton>(R.id.facebookBtn)
         facebookBtn.setOnClickListener {
-            Toast.makeText(this@LoginActivity, "Facebook Button Clicked", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this@RegisterActivity, "Facebook Button Clicked", Toast.LENGTH_SHORT).show()
         }
 
         val InstagramBtn = findViewById<ImageButton>(R.id.instagramBtn)
         InstagramBtn.setOnClickListener {
-            Toast.makeText(this@LoginActivity, "Instagram Button Clicked", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this@RegisterActivity, "Instagram Button Clicked", Toast.LENGTH_SHORT).show()
         }
 
         val LinkedInBtn = findViewById<ImageButton>(R.id.linkedinBtn)
         LinkedInBtn.setOnClickListener {
-            Toast.makeText(this@LoginActivity, "Linkedin Button Clicked", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this@RegisterActivity, "Linkedin Button Clicked", Toast.LENGTH_SHORT).show()
         }
 
         val twitterBtn = findViewById<ImageButton>(R.id.twitterBtn)
         twitterBtn.setOnClickListener {
-            Toast.makeText(this@LoginActivity, "Twitter Button Clicked", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this@RegisterActivity, "Twitter Button Clicked", Toast.LENGTH_SHORT).show()
         }
 
 
