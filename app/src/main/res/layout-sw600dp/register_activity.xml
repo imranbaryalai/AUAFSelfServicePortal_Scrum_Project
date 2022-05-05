@@ -51,7 +51,7 @@
                 android:layout_marginHorizontal="@dimen/divider_margin"/>
 
             <TextView
-                android:id="@+id/loginText"
+                android:id="@+id/registerText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="@dimen/tbl_subtitle_fontSize"
@@ -171,11 +171,11 @@
 
                 <TextView
                     android:id="@+id/loginBtn"
-                    android:layout_width="wrap_content"
-                    android:layout_height="30dp"
-                    android:textSize="@dimen/tbl_subtitle_fontSize"
+                    android:layout_width="400dp"
+                    android:layout_height="60dp"
                     android:textStyle="bold"
-                    android:gravity="center_vertical"
+                    android:gravity="center"
+                    android:textSize="@dimen/tbl_subtitle_fontSize"
                     android:textColor="@color/colorPrimary"
                     android:textAppearance="@style/TextAppearance.AppCompat.Button"
                     android:text="Existing account, login here"/>

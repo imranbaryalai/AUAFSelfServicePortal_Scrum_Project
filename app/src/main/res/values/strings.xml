@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AUAF-Stu-Adv-App</string>
+    <string name="app_name">AUAF Student Portal</string>
     <string name="email">Email ID</string>
     <string name="password">Password</string>
     <string name="student_or_employee_id">Student or Employee ID</string>
