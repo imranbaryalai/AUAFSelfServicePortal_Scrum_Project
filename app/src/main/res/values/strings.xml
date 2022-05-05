@@ -3,5 +3,9 @@
     <string name="email">Email ID</string>
     <string name="password">Password</string>
     <string name="student_or_employee_id">Student or Employee ID</string>
+    <string name="auaf_dark_bg_logo">AUAF_Dark_BG_Logo</string>
+    <string name="title_activity_courses">CoursesActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
 
 </resources>

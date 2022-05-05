@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\layout-sw600dp_dashboard_activity.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\layout-sw600dp\\dashboard_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\layout_dashboard_activity.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\layout\\dashboard_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_darkblue_button_border_4dp.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\darkblue_button_border_4dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_courses.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_courses.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_dashboard_white_rounded_bg.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\dashboard_white_rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_darkblue_border_2dp.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\darkblue_border_2dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_chat.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_darkblue_button.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\darkblue_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_splash_screen_bg.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_splash_screen_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\font_opensans.ttf.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\font\\opensans.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_splash_screen_bg.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_splash_screen_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_auaf_dark_logo.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\auaf_dark_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_auaf_logo.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\auaf_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_social_media.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_social_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash_screen.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_splash_screen_bg.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_splash_screen_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\layout-sw600dp_login_activity.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\layout-sw600dp\\login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_splash_screen_bg.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_splash_screen_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\layout_register_activity.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\layout\\register_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_white_button_cornered.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\white_button_cornered.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_password.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\layout-sw600dp_register_activity.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\layout-sw600dp\\register_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_social_media.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_social_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_chat.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_staff.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_staff.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_white_background_border.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\white_background_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_splash_screen_bg.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_splash_screen_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_twitter.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_instagram.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_instagram.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_id_card.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_id_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\layout-land_dashboard_activity.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\layout-land\\dashboard_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_id_card.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_id_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\layout_login_activity.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_dark_background_border.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\dark_background_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_splash_screen_bg.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_splash_screen_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_auaf_logo_long.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\auaf_logo_long.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\font_arvo.ttf.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\font\\arvo.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_email.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_email.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_linkedin.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_linkedin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\layout_splash_screen_activity.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\layout\\splash_screen_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_logout.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_splash_screen_bg.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_splash_screen_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\layout-sw600dp_splash_screen_activity.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\layout-sw600dp\\splash_screen_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_staff.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_staff.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_courses.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_courses.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_facebook.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_divider_black.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\divider_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_password.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_logout.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_gallery.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_gallery.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

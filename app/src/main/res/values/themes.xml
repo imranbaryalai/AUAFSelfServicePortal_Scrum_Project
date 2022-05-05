@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.AUAFStuAdvApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.AUAFStuAdvApp" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/colorPrimaryDark</item>
         <item name="colorPrimaryVariant">@color/colorPrimary</item>
@@ -18,8 +18,8 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-
-    <style name="Theme.AUAFStuAdvApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+l
+    <style name="Theme.AUAFStuAdvApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
     <style name="Theme.AUAFStuAdvApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
