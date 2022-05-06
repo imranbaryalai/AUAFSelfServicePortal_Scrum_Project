@@ -21,20 +21,38 @@ public final class DashboardActivityBinding implements ViewBinding {
   private final ScrollView rootView;
 
   @NonNull
-  public final CardView Card1;
+  public final CardView chatCard;
 
   @NonNull
-  public final CardView Card2;
+  public final CardView coursesCard;
+
+  @NonNull
+  public final CardView galleryCard;
 
   @NonNull
   public final ImageView imageView;
 
-  private DashboardActivityBinding(@NonNull ScrollView rootView, @NonNull CardView Card1,
-      @NonNull CardView Card2, @NonNull ImageView imageView) {
+  @NonNull
+  public final CardView logoutCard;
+
+  @NonNull
+  public final CardView socialMediaCard;
+
+  @NonNull
+  public final CardView staffCard;
+
+  private DashboardActivityBinding(@NonNull ScrollView rootView, @NonNull CardView chatCard,
+      @NonNull CardView coursesCard, @NonNull CardView galleryCard, @NonNull ImageView imageView,
+      @NonNull CardView logoutCard, @NonNull CardView socialMediaCard,
+      @NonNull CardView staffCard) {
     this.rootView = rootView;
-    this.Card1 = Card1;
-    this.Card2 = Card2;
+    this.chatCard = chatCard;
+    this.coursesCard = coursesCard;
+    this.galleryCard = galleryCard;
     this.imageView = imageView;
+    this.logoutCard = logoutCard;
+    this.socialMediaCard = socialMediaCard;
+    this.staffCard = staffCard;
   }
 
   @Override
@@ -64,15 +82,21 @@ public final class DashboardActivityBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.Card1;
-      CardView Card1 = ViewBindings.findChildViewById(rootView, id);
-      if (Card1 == null) {
+      id = R.id.chatCard;
+      CardView chatCard = ViewBindings.findChildViewById(rootView, id);
+      if (chatCard == null) {
         break missingId;
       }
 
-      id = R.id.Card2;
-      CardView Card2 = ViewBindings.findChildViewById(rootView, id);
-      if (Card2 == null) {
+      id = R.id.coursesCard;
+      CardView coursesCard = ViewBindings.findChildViewById(rootView, id);
+      if (coursesCard == null) {
+        break missingId;
+      }
+
+      id = R.id.galleryCard;
+      CardView galleryCard = ViewBindings.findChildViewById(rootView, id);
+      if (galleryCard == null) {
         break missingId;
       }
 
@@ -82,7 +106,26 @@ public final class DashboardActivityBinding implements ViewBinding {
         break missingId;
       }
 
-      return new DashboardActivityBinding((ScrollView) rootView, Card1, Card2, imageView);
+      id = R.id.logoutCard;
+      CardView logoutCard = ViewBindings.findChildViewById(rootView, id);
+      if (logoutCard == null) {
+        break missingId;
+      }
+
+      id = R.id.socialMediaCard;
+      CardView socialMediaCard = ViewBindings.findChildViewById(rootView, id);
+      if (socialMediaCard == null) {
+        break missingId;
+      }
+
+      id = R.id.staffCard;
+      CardView staffCard = ViewBindings.findChildViewById(rootView, id);
+      if (staffCard == null) {
+        break missingId;
+      }
+
+      return new DashboardActivityBinding((ScrollView) rootView, chatCard, coursesCard, galleryCard,
+          imageView, logoutCard, socialMediaCard, staffCard);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

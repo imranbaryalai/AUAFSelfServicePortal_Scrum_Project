@@ -16,9 +16,7 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.login_activity)
 
-
-
-
+        // Login Button OnClickListener
 
         val loginBtn = findViewById<Button>(R.id.loginBtn)
         loginBtn.setOnClickListener {
@@ -35,38 +33,45 @@ class LoginActivity : AppCompatActivity() {
             val intent = Intent(this@LoginActivity, DashboardActivity::class.java)
             if (emailInput.equals("admin") && passwordInput.equals("admin")){
                 startActivity(intent)
-                finish()
             }
 
         }
+
+        // Register Button OnClickListener
 
         val registerBtn = findViewById<TextView>(R.id.registerBtn)
         registerBtn.setOnClickListener {
             val intent = Intent(this@LoginActivity, RegisterActivity::class.java)
             startActivity(intent)
-            finish()
         }
+
+        // Facebook ImageButton OnClickListener
 
         val facebookBtn = findViewById<ImageButton>(R.id.facebookBtn)
         facebookBtn.setOnClickListener {
             Toast.makeText(this@LoginActivity, "Facebook Button Clicked", Toast.LENGTH_SHORT).show()
         }
 
+        // Instagram ImageButton OnClickListener
+
         val InstagramBtn = findViewById<ImageButton>(R.id.instagramBtn)
         InstagramBtn.setOnClickListener {
             Toast.makeText(this@LoginActivity, "Instagram Button Clicked", Toast.LENGTH_SHORT).show()
         }
+
+        // LinkedIn ImageButton OnClickListener
 
         val LinkedInBtn = findViewById<ImageButton>(R.id.linkedinBtn)
         LinkedInBtn.setOnClickListener {
             Toast.makeText(this@LoginActivity, "Linkedin Button Clicked", Toast.LENGTH_SHORT).show()
         }
 
+        // Twitter ImageButton OnClickListener
+
         val twitterBtn = findViewById<ImageButton>(R.id.twitterBtn)
         twitterBtn.setOnClickListener {
             Toast.makeText(this@LoginActivity, "Twitter Button Clicked", Toast.LENGTH_SHORT).show()
         }
-
 
     }
 }

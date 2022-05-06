@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/src/test/java/com/nextgendevs/auaf_stu_adv_app/
+/app/src/androidTest/java/com/nextgendevs/auaf_stu_adv_app/

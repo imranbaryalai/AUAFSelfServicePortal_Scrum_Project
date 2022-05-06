@@ -1,19 +1,19 @@
 package com.nextgendevs.auaf_stu_adv_app
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.MenuItem
 import android.widget.Button
 import android.widget.ImageButton
 import android.widget.TextView
 import android.widget.Toast
-import androidx.appcompat.widget.AppCompatButton
-import androidx.appcompat.widget.AppCompatImageButton
+import androidx.appcompat.app.AppCompatActivity
 
 class RegisterActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.register_activity)
+
 
         val loginBtn = findViewById<TextView>(R.id.loginBtn)
         loginBtn.setOnClickListener {
@@ -47,6 +47,10 @@ class RegisterActivity : AppCompatActivity() {
             Toast.makeText(this@RegisterActivity, "Twitter Button Clicked", Toast.LENGTH_SHORT).show()
         }
 
-
     }
+
+    override fun onBackPressed() {
+        super.onBackPressed()
+        this.finish()
+        }
 }

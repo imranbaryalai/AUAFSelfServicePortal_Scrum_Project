@@ -11,7 +11,7 @@
 9-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:5:5-27:19
+11-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:5:5-30:19
 12        android:allowBackup="true"
 12-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -25,74 +25,81 @@
 17-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:10:9-35
-19        android:theme="@style/Theme.AUAFStuAdvApp" >
-19-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:11:9-51
-20        <activity
-20-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:12:9-14:40
-21            android:name="com.nextgendevs.auaf_stu_adv_app.DashboardActivity"
-21-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:13:13-46
-22            android:exported="false" />
-22-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:14:13-37
-23        <activity
-23-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:15:9-24:20
-24            android:name="com.nextgendevs.auaf_stu_adv_app.SplashActivity"
-24-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:16:13-43
-25            android:exported="true"
-25-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:17:13-36
-26            android:theme="@style/Theme.AUAFStuAdvApp.NoActionBar" >
-26-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:18:13-67
-27            <intent-filter>
-27-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:19:13-23:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:20:17-69
-28-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:20:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:22:17-77
-30-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:22:27-74
-31            </intent-filter>
-32        </activity>
-33        <activity android:name="com.nextgendevs.auaf_stu_adv_app.LoginActivity" />
-33-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:25:9-51
-33-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:25:19-48
-34        <activity android:name="com.nextgendevs.auaf_stu_adv_app.RegisterActivity" />
-34-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:26:9-54
-34-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:26:19-51
-35
-36        <uses-library
-36-->[androidx.window:window:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\74f50b69145295b80742214985aecc0c\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-37            android:name="androidx.window.extensions"
-37-->[androidx.window:window:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\74f50b69145295b80742214985aecc0c\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-38            android:required="false" />
-38-->[androidx.window:window:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\74f50b69145295b80742214985aecc0c\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-39        <uses-library
-39-->[androidx.window:window:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\74f50b69145295b80742214985aecc0c\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-40            android:name="androidx.window.sidecar"
-40-->[androidx.window:window:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\74f50b69145295b80742214985aecc0c\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-41            android:required="false" />
-41-->[androidx.window:window:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\74f50b69145295b80742214985aecc0c\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-42
-43        <provider
-43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-44            android:name="androidx.startup.InitializationProvider"
-44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-45            android:authorities="com.nextgendevs.auaf_stu_adv_app.androidx-startup"
-45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-46            android:exported="false" >
-46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-47            <meta-data
-47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-48                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-49                android:value="androidx.startup" />
-49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-50            <meta-data
-50-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Blade\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-51                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-51-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Blade\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-52                android:value="androidx.startup" />
-52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Blade\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-53        </provider>
-54    </application>
-55
-56</manifest>
+19        android:testOnly="true"
+20        android:theme="@style/Theme.AUAFStuAdvApp" >
+20-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:11:9-51
+21        <activity
+21-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:12:9-14:40
+22            android:name="com.nextgendevs.auaf_stu_adv_app.CoursesActivity"
+22-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:13:13-44
+23            android:exported="false" />
+23-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:14:13-37
+24        <activity
+24-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:15:9-17:40
+25            android:name="com.nextgendevs.auaf_stu_adv_app.DashboardActivity"
+25-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:16:13-46
+26            android:exported="false" />
+26-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:17:13-37
+27        <activity
+27-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:18:9-27:20
+28            android:name="com.nextgendevs.auaf_stu_adv_app.SplashActivity"
+28-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:19:13-43
+29            android:exported="true"
+29-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:20:13-36
+30            android:theme="@style/Theme.AUAFStuAdvApp.NoActionBar" >
+30-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:21:13-67
+31            <intent-filter>
+31-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:22:13-26:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:23:17-69
+32-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:23:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:25:17-77
+34-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:25:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity android:name="com.nextgendevs.auaf_stu_adv_app.LoginActivity" />
+37-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:28:9-51
+37-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:28:19-48
+38        <activity android:name="com.nextgendevs.auaf_stu_adv_app.RegisterActivity" />
+38-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:29:9-54
+38-->C:\Users\Blade\Documents\GitHub\app\src\main\AndroidManifest.xml:29:19-51
+39
+40        <uses-library
+40-->[androidx.window:window:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\74f50b69145295b80742214985aecc0c\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+41            android:name="androidx.window.extensions"
+41-->[androidx.window:window:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\74f50b69145295b80742214985aecc0c\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+42            android:required="false" />
+42-->[androidx.window:window:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\74f50b69145295b80742214985aecc0c\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+43        <uses-library
+43-->[androidx.window:window:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\74f50b69145295b80742214985aecc0c\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+44            android:name="androidx.window.sidecar"
+44-->[androidx.window:window:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\74f50b69145295b80742214985aecc0c\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+45            android:required="false" />
+45-->[androidx.window:window:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\74f50b69145295b80742214985aecc0c\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+46
+47        <provider
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+48            android:name="androidx.startup.InitializationProvider"
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+49            android:authorities="com.nextgendevs.auaf_stu_adv_app.androidx-startup"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+50            android:exported="false" >
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+51            <meta-data
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+53                android:value="androidx.startup" />
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Blade\.gradle\caches\transforms-3\441d4fc037de6fb441500e8a56b36e60\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+54            <meta-data
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Blade\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Blade\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+56                android:value="androidx.startup" />
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Blade\.gradle\caches\transforms-3\46e5aed857477bc0e3c3002365c20da9\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+57        </provider>
+58    </application>
+59
+60</manifest>

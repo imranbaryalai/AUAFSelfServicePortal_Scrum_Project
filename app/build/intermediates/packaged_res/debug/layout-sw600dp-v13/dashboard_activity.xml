@@ -55,9 +55,11 @@
                 android:weightSum="2">
 
                 <androidx.cardview.widget.CardView
-                    android:id="@+id/Card1"
+                    android:id="@+id/coursesCard"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:foreground="?attr/selectableItemBackground"
+                    app:cardCornerRadius="25dp"
                     android:layout_marginVertical="@dimen/very_short_margin"
                     android:layout_marginEnd="@dimen/short_margin"
                     android:layout_weight="1">
@@ -90,8 +92,10 @@
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
-                    android:id="@+id/Card2"
+                    android:id="@+id/chatCard"
                     android:layout_width="match_parent"
+                    android:foreground="?attr/selectableItemBackground"
+                    app:cardCornerRadius="25dp"
                     android:layout_height="match_parent"
                     android:layout_marginVertical="@dimen/very_short_margin"
                     android:layout_marginStart="@dimen/short_margin"
@@ -138,8 +142,11 @@
                 android:weightSum="2">
 
                 <androidx.cardview.widget.CardView
+                    android:id="@+id/staffCard"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:foreground="?attr/selectableItemBackground"
+                    app:cardCornerRadius="25dp"
                     android:layout_marginVertical="@dimen/very_short_margin"
                     android:layout_marginEnd="@dimen/short_margin"
                     android:layout_weight="1">
@@ -170,8 +177,11 @@
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
+                    android:id="@+id/galleryCard"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:foreground="?attr/selectableItemBackground"
+                    app:cardCornerRadius="25dp"
                     android:layout_marginVertical="@dimen/very_short_margin"
                     android:layout_marginStart="@dimen/short_margin"
                     android:layout_weight="1">
@@ -215,6 +225,9 @@
                 android:weightSum="2">
 
                 <androidx.cardview.widget.CardView
+                    android:id="@+id/socialMediaCard"
+                    android:foreground="?attr/selectableItemBackground"
+                    app:cardCornerRadius="25dp"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_marginVertical="@dimen/very_short_margin"
@@ -247,8 +260,11 @@
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
+                    android:id="@+id/logoutCard"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:foreground="?attr/selectableItemBackground"
+                    app:cardCornerRadius="25dp"
                     android:layout_marginVertical="@dimen/very_short_margin"
                     android:layout_marginStart="@dimen/short_margin"
                     android:layout_weight="1">

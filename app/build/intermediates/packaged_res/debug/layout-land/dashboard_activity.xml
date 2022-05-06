@@ -55,9 +55,11 @@
                 android:weightSum="3">
 
                 <androidx.cardview.widget.CardView
-                    android:id="@+id/Card1"
+                    android:id="@+id/coursesCard"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:foreground="?attr/selectableItemBackground"
+                    app:cardCornerRadius="25dp"
                     android:layout_marginVertical="@dimen/very_short_margin"
                     android:layout_marginStart="@dimen/short_margin"
                     android:layout_marginEnd="@dimen/short_margin"
@@ -91,12 +93,15 @@
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
-                    android:id="@+id/Card2"
+                    android:id="@+id/chatCard"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_marginVertical="@dimen/very_short_margin"
                     android:layout_marginStart="@dimen/short_margin"
-                    android:layout_weight="1">
+                    android:layout_marginEnd="@dimen/short_margin"
+                    android:layout_weight="1"
+                    android:foreground="?attr/selectableItemBackground"
+                    app:cardCornerRadius="25dp">
 
 
                     <LinearLayout
@@ -109,23 +114,26 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:drawablePadding="@dimen/short_margin"
                             android:text="Chat"
                             android:textAlignment="center"
                             android:textAllCaps="true"
-                            android:textSize="20sp"
                             android:textAppearance="@style/TextAppearance.Material3.TitleLarge"
+                            android:textSize="20sp"
                             android:textStyle="bold"
                             app:drawableTint="@color/colorPrimaryDark"
-                            app:drawableTopCompat="@drawable/ic_round_chat"
-                            android:drawablePadding="@dimen/short_margin"/>
+                            app:drawableTopCompat="@drawable/ic_round_chat" />
 
                     </LinearLayout>
 
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
+                    android:id="@+id/staffCard"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:foreground="?attr/selectableItemBackground"
+                    app:cardCornerRadius="25dp"
                     android:layout_marginVertical="@dimen/very_short_margin"
                     android:layout_marginStart="@dimen/short_margin"
                     android:layout_marginEnd="@dimen/short_margin"
@@ -173,8 +181,11 @@
 
 
                 <androidx.cardview.widget.CardView
+                    android:id="@+id/galleryCard"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:foreground="?attr/selectableItemBackground"
+                    app:cardCornerRadius="25dp"
                     android:layout_marginVertical="@dimen/very_short_margin"
                     android:layout_marginEnd="@dimen/short_margin"
                     android:layout_marginStart="@dimen/short_margin"
@@ -207,8 +218,11 @@
 
 
                 <androidx.cardview.widget.CardView
+                    android:id="@+id/socialMediaCard"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:foreground="?attr/selectableItemBackground"
+                    app:cardCornerRadius="25dp"
                     android:layout_marginVertical="@dimen/very_short_margin"
                     android:layout_marginStart="@dimen/short_margin"
                     android:layout_marginEnd="@dimen/short_margin"
@@ -240,8 +254,11 @@
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
+                    android:id="@+id/logoutCard"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:foreground="?attr/selectableItemBackground"
+                    app:cardCornerRadius="25dp"
                     android:layout_marginVertical="@dimen/very_short_margin"
                     android:layout_marginStart="@dimen/short_margin"
                     android:layout_marginEnd="@dimen/short_margin"
