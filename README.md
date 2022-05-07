@@ -17,8 +17,8 @@ This is an AUAF Student Project for the Software Engineering Class. The Goal of 
 The Link to the Required Documents (Artifacts) of Scrum Method are linked Below:
 
 <ul>
-  <li><a href="https://docs.google.com/document/d/1I_xPwWJl5XaKoO2ti2TO_6tmPje8t3BebKyX2Siiuqs/edit?usp=sharing"> Product Backlog </a> </li>
-  <li><a href="https://docs.google.com/document/d/1EYDv_w52j9ipeOKmKYRGGV7cKlRpTbX4khuiBM8FoUY/edit?usp=sharing"> Sprint Backlog </a></li>
+  <li><a href = "https://github.com/imranbaryalai/AUAFSelfServicePortal_Scrum_Project/files/8645783/Product.Backlog.and.Requirements.pdf">Product Backlog</a></li>
+  <li><a href = "https://docs.google.com/document/d/1EYDv_w52j9ipeOKmKYRGGV7cKlRpTbX4khuiBM8FoUY/edit?usp=sharing"> Sprint Backlog </a></li>
   <li><a href="#"> Increment Documentation </a> </li>
 </ul>
 
@@ -44,8 +44,6 @@ The Link to the Required Documents (Artifacts) of Scrum Method are linked Below:
 Other Documents and Resources:
 <ul>
   <li><a href="https://drive.google.com/drive/folders/1RKHytm3FFi_INrJfcUjy4wW40Wza0ePA?usp=sharing"> Meeting Recordings (Initial, Sprint Planning, Daily Scrum, and Sprint Review) </a> </li>
-  <li><a href="#"> Project Documentation </a></li>
-  <li><a href="#"> Project Video </a> </li>
 </ul>
 
 Thank You for Checking Out Our Project!
