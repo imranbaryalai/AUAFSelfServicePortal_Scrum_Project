@@ -61,6 +61,7 @@ id coursesCard
 id emailInput
 id facebookBtn
 id galleryCard
+id idTextInput
 id imageView
 id instagramBtn
 id linkedinBtn

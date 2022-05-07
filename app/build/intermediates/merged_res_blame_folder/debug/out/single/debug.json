@@ -68,16 +68,16 @@
         "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_splash_screen_bg.png"
     },
     {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_bba.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_bba.xml"
+    },
+    {
         "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\layout_courses_activity.xml.flat",
         "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\layout\\courses_activity.xml"
     },
     {
         "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_auaf_dark_logo.png.flat",
         "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\auaf_dark_logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_bba.xml.flat",
-        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_bba.xml"
     },
     {
         "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_auaf_logo.png.flat",
@@ -112,16 +112,16 @@
         "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_splash_screen_bg.png"
     },
     {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_itcs.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_itcs.xml"
+    },
+    {
         "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_instagram.png.flat",
         "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_instagram.png"
     },
     {
         "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_itcs.xml.flat",
-        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_itcs.xml"
     },
     {
         "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\layout_register_activity.xml.flat",
@@ -276,12 +276,12 @@
         "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_email.xml"
     },
     {
-        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_linkedin.xml.flat",
-        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_linkedin.xml"
-    },
-    {
         "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_pol.xml.flat",
         "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_pol.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_linkedin.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_linkedin.xml"
     },
     {
         "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_instagram.png.flat",
@@ -328,12 +328,12 @@
         "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_instagram.png.flat",
-        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_instagram.png"
-    },
-    {
         "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-sw600dp_ic_round_law.xml.flat",
         "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_law.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_instagram.png"
     },
     {
         "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_facebook.png.flat",
@@ -368,12 +368,12 @@
         "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable-sw600dp\\ic_round_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_gallery.xml.flat",
-        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_gallery.xml"
-    },
-    {
         "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_law.xml.flat",
         "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_law.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_gallery.xml.flat",
+        "source": "C:\\Users\\Blade\\Documents\\GitHub\\app\\src\\main\\res\\drawable\\ic_round_gallery.xml"
     },
     {
         "merged": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",

@@ -1,20 +1,22 @@
 package com.nextgendevs.auaf_stu_adv_app
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Patterns
 import android.widget.Button
 import android.widget.ImageButton
 import android.widget.TextView
 import android.widget.Toast
-import androidx.appcompat.widget.AppCompatButton
-import androidx.appcompat.widget.AppCompatImageButton
+import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.textfield.TextInputEditText
+
 
 class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.login_activity)
+
+        val db = DatabaseHelper(this)
 
         // Login Button OnClickListener
 
@@ -24,16 +26,33 @@ class LoginActivity : AppCompatActivity() {
             val emailTextEdit = findViewById<TextInputEditText>(R.id.emailInput)
             val passTextEdit = findViewById<TextInputEditText>(R.id.passwordInput)
 
-            val emailInput = emailTextEdit.text.toString()
-            val passwordInput = passTextEdit.text.toString()
+            val emailInput = emailTextEdit.text.toString().trim()
+            val passwordInput = passTextEdit.text.toString().trim()
+
+            if(emailInput.isNotEmpty() && Patterns.EMAIL_ADDRESS.matcher(emailInput).matches()){
+
+                val intent = Intent(this@LoginActivity, DashboardActivity::class.java)
+
+                if (db.checkUserPass(emailInput, passwordInput)){
+
+                    Toast.makeText(this@LoginActivity, "Sign in Successful!", Toast.LENGTH_SHORT).show()
+                    startActivity(intent)
+
+                } else {
+
+                    Toast.makeText(this@LoginActivity, "Email or Password Invalid!", Toast.LENGTH_SHORT).show()
+
+                }
+
+            } else {
+
+                Toast.makeText(applicationContext, "Please Enter a Valid Email Address!", Toast.LENGTH_SHORT).show()
+            }
 
             println("Email: $emailInput")
             println("Password: $passwordInput")
 
-            val intent = Intent(this@LoginActivity, DashboardActivity::class.java)
-            if (emailInput.equals("admin") && passwordInput.equals("admin")){
-                startActivity(intent)
-            }
+
 
         }
 
@@ -54,15 +73,15 @@ class LoginActivity : AppCompatActivity() {
 
         // Instagram ImageButton OnClickListener
 
-        val InstagramBtn = findViewById<ImageButton>(R.id.instagramBtn)
-        InstagramBtn.setOnClickListener {
+        val instagramBtn = findViewById<ImageButton>(R.id.instagramBtn)
+        instagramBtn.setOnClickListener {
             Toast.makeText(this@LoginActivity, "Instagram Button Clicked", Toast.LENGTH_SHORT).show()
         }
 
         // LinkedIn ImageButton OnClickListener
 
-        val LinkedInBtn = findViewById<ImageButton>(R.id.linkedinBtn)
-        LinkedInBtn.setOnClickListener {
+        val linkedInBtn = findViewById<ImageButton>(R.id.linkedinBtn)
+        linkedInBtn.setOnClickListener {
             Toast.makeText(this@LoginActivity, "Linkedin Button Clicked", Toast.LENGTH_SHORT).show()
         }
 
@@ -74,4 +93,5 @@ class LoginActivity : AppCompatActivity() {
         }
 
     }
+
 }

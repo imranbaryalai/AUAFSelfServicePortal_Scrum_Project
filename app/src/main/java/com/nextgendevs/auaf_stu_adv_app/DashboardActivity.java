@@ -82,10 +82,7 @@ public class DashboardActivity extends AppCompatActivity {
         logoutCard.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                /*
-                Intent intent = new Intent(DashboardActivity.this, CoursesActivity.class);
-                startActivity(intent);
-                 */
+               finish();
             }
         });
     }

@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:background="@drawable/white_background_border"
-        android:weightSum="6">
+        android:weightSum="7">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -64,7 +64,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="3"
+            android:layout_weight="4"
             android:layout_margin="@dimen/default_margin"
             android:gravity="center_horizontal"
             android:padding="@dimen/short_margin"
@@ -137,7 +137,7 @@
                     android:backgroundTint="@color/colorPrimaryDark"
                     android:paddingVertical="14dp"
                     android:textAppearance="@style/TextAppearance.AppCompat.Button"
-                    android:layout_margin="@dimen/very_short_margin"/>
+                    android:layout_margin="@dimen/short_margin"/>
 
                 <TextView
                     android:id="@+id/registerBtn"
@@ -166,7 +166,7 @@
             <ImageButton
                 android:id="@+id/facebookBtn"
                 android:layout_width="0dp"
-                android:layout_height="match_parent"
+                android:layout_height="70dp"
                 android:src="@drawable/ic_facebook"
                 android:background="@color/colorPrimaryDark"
                 android:foreground="?selectableItemBackground"
@@ -178,7 +178,7 @@
             <ImageButton
                 android:id="@+id/instagramBtn"
                 android:layout_width="0dp"
-                android:layout_height="match_parent"
+                android:layout_height="70dp"
                 android:src="@drawable/ic_instagram"
                 android:background="@color/colorPrimaryDark"
                 android:foreground="?selectableItemBackground"
@@ -190,7 +190,7 @@
             <ImageButton
                 android:id="@+id/linkedinBtn"
                 android:layout_width="0dp"
-                android:layout_height="match_parent"
+                android:layout_height="70dp"
                 android:src="@drawable/ic_linkedin"
                 android:padding="14dp"
                 android:background="@color/colorPrimaryDark"
@@ -202,7 +202,7 @@
             <ImageButton
                 android:id="@+id/twitterBtn"
                 android:layout_width="0dp"
-                android:layout_height="match_parent"
+                android:layout_height="70dp"
                 android:src="@drawable/ic_twitter"
                 android:background="@color/colorPrimaryDark"
                 android:foreground="?selectableItemBackground"

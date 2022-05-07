@@ -2822,6 +2822,7 @@ int id honorRequest 0x7f0900d9
 int id horizontal_only 0x7f0900da
 int id icon 0x7f0900db
 int id icon_group 0x7f0900dc
+int id idTextInput 0x7f090200
 int id ifRoom 0x7f0900dd
 int id ignore 0x7f0900de
 int id ignoreRequest 0x7f0900df

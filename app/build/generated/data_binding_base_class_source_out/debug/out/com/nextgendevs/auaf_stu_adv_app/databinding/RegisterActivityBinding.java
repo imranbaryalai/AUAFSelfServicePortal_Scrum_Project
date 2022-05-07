@@ -13,6 +13,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import com.google.android.material.textfield.TextInputEditText;
 import com.nextgendevs.auaf_stu_adv_app.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -22,8 +23,27 @@ public final class RegisterActivityBinding implements ViewBinding {
   @NonNull
   private final ScrollView rootView;
 
+  /**
+   * This binding is not available in all configurations.
+   * <p>
+   * Present:
+   * <ul>
+   *   <li>layout/</li>
+   * </ul>
+   *
+   * Absent:
+   * <ul>
+   *   <li>layout-sw600dp/</li>
+   * </ul>
+   */
+  @Nullable
+  public final TextInputEditText emailInput;
+
   @NonNull
   public final ImageButton facebookBtn;
+
+  @NonNull
+  public final TextInputEditText idTextInput;
 
   @NonNull
   public final ImageView imageView;
@@ -53,6 +73,22 @@ public final class RegisterActivityBinding implements ViewBinding {
   @Nullable
   public final TextView loginText;
 
+  /**
+   * This binding is not available in all configurations.
+   * <p>
+   * Present:
+   * <ul>
+   *   <li>layout/</li>
+   * </ul>
+   *
+   * Absent:
+   * <ul>
+   *   <li>layout-sw600dp/</li>
+   * </ul>
+   */
+  @Nullable
+  public final TextInputEditText passwordInput;
+
   @NonNull
   public final Button registerBtn;
 
@@ -78,18 +114,24 @@ public final class RegisterActivityBinding implements ViewBinding {
   @NonNull
   public final TextView welcomeText;
 
-  private RegisterActivityBinding(@NonNull ScrollView rootView, @NonNull ImageButton facebookBtn,
-      @NonNull ImageView imageView, @NonNull ImageButton instagramBtn,
-      @NonNull ImageButton linkedinBtn, @NonNull TextView loginBtn, @Nullable TextView loginText,
-      @NonNull Button registerBtn, @Nullable TextView registerText, @NonNull ImageButton twitterBtn,
+  private RegisterActivityBinding(@NonNull ScrollView rootView,
+      @Nullable TextInputEditText emailInput, @NonNull ImageButton facebookBtn,
+      @NonNull TextInputEditText idTextInput, @NonNull ImageView imageView,
+      @NonNull ImageButton instagramBtn, @NonNull ImageButton linkedinBtn,
+      @NonNull TextView loginBtn, @Nullable TextView loginText,
+      @Nullable TextInputEditText passwordInput, @NonNull Button registerBtn,
+      @Nullable TextView registerText, @NonNull ImageButton twitterBtn,
       @NonNull TextView welcomeText) {
     this.rootView = rootView;
+    this.emailInput = emailInput;
     this.facebookBtn = facebookBtn;
+    this.idTextInput = idTextInput;
     this.imageView = imageView;
     this.instagramBtn = instagramBtn;
     this.linkedinBtn = linkedinBtn;
     this.loginBtn = loginBtn;
     this.loginText = loginText;
+    this.passwordInput = passwordInput;
     this.registerBtn = registerBtn;
     this.registerText = registerText;
     this.twitterBtn = twitterBtn;
@@ -123,9 +165,18 @@ public final class RegisterActivityBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.emailInput;
+      TextInputEditText emailInput = ViewBindings.findChildViewById(rootView, id);
+
       id = R.id.facebookBtn;
       ImageButton facebookBtn = ViewBindings.findChildViewById(rootView, id);
       if (facebookBtn == null) {
+        break missingId;
+      }
+
+      id = R.id.idTextInput;
+      TextInputEditText idTextInput = ViewBindings.findChildViewById(rootView, id);
+      if (idTextInput == null) {
         break missingId;
       }
 
@@ -156,6 +207,9 @@ public final class RegisterActivityBinding implements ViewBinding {
       id = R.id.loginText;
       TextView loginText = ViewBindings.findChildViewById(rootView, id);
 
+      id = R.id.passwordInput;
+      TextInputEditText passwordInput = ViewBindings.findChildViewById(rootView, id);
+
       id = R.id.registerBtn;
       Button registerBtn = ViewBindings.findChildViewById(rootView, id);
       if (registerBtn == null) {
@@ -177,9 +231,9 @@ public final class RegisterActivityBinding implements ViewBinding {
         break missingId;
       }
 
-      return new RegisterActivityBinding((ScrollView) rootView, facebookBtn, imageView,
-          instagramBtn, linkedinBtn, loginBtn, loginText, registerBtn, registerText, twitterBtn,
-          welcomeText);
+      return new RegisterActivityBinding((ScrollView) rootView, emailInput, facebookBtn,
+          idTextInput, imageView, instagramBtn, linkedinBtn, loginBtn, loginText, passwordInput,
+          registerBtn, registerText, twitterBtn, welcomeText);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
