@@ -6,12 +6,12 @@ This is an AUAF Student Project for the Software Engineering Class. The Goal of 
 
 <p>The Members of the Team Are:</p>
 <ul>
-  <li>Imran Baryalai  <strong> [Scrum Master] </strong> </li>
-  <li>Shukoh Nasiri  <strong> [Product Owner] </strong> </li>
+  <li>Mahmood Basirat<strong> [Scrum Master] </strong> </li>
+  <li>Shukoh Nasiri<strong> [Product Owner] </strong> </li>
+  <li>Sajid Aziz Jabarkhel<strong> [Product Owner] </strong> </li>
   <li>Sayed Subhan Shah Sadat  <strong> [Development Team] </strong> </li>
-  <li>Mahmood Basirat  <strong> [Development Team] </strong> </li>
-  <li>Sahar Omar  <strong> [Development Team] </strong> </li>
-  <li>Sajid Aziz Jabarkhel  <strong> [Development Team] </strong> </li>
+  <li>Imran Baryalai<strong> [Development Team] </strong> </li>
+  <li>Sahar Omar<strong> [Development Team] </strong> </li>
 </ul>
 
 The Link to the Required Documents (Artifacts) of Scrum Method are linked Below:
