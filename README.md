@@ -25,20 +25,20 @@ The Link to the Required Documents (Artifacts) of Scrum Method are linked Below:
 <h2> Screenshots of Application (Mobile Screen Size) </h2>
   
 <h4> Login Screen </h4>
-  
-![Screenshot_1651915984](https://user-images.githubusercontent.com/69864244/167248426-4e5514e8-ab2a-4790-82b4-17d197cae7a1.png)
+
+<img src="https://user-images.githubusercontent.com/69864244/167248426-4e5514e8-ab2a-4790-82b4-17d197cae7a1.png" height="350px">
 
 <h4> Registration Screen </h4>
 
-![Screenshot_1651916017](https://user-images.githubusercontent.com/69864244/167248442-d9078aba-3b40-4902-a5d2-5f5c82353903.png)
+<img src="https://user-images.githubusercontent.com/69864244/167248442-d9078aba-3b40-4902-a5d2-5f5c82353903.png" height="350px">
 
 <h4> Dashboard Screen Screen </h4>
 
-![Screenshot_1651916049](https://user-images.githubusercontent.com/69864244/167248459-57ca115d-6308-4dd5-aa60-a15eb1b82162.png)
+<img src="https://user-images.githubusercontent.com/69864244/167248459-57ca115d-6308-4dd5-aa60-a15eb1b82162.png" height="350px">
 
 <h4> Courses Screen </h4>
 
-![Screenshot_1651916081](https://user-images.githubusercontent.com/69864244/167248478-f80ddc72-febd-4d3d-8f5c-31ff7460d385.png)
+<img src="https://user-images.githubusercontent.com/69864244/167248478-f80ddc72-febd-4d3d-8f5c-31ff7460d385.png" height="350px">
 
 
 Other Documents and Resources:
