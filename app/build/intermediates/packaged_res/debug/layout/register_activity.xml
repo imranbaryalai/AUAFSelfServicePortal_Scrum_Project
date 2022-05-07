@@ -26,8 +26,8 @@
 
             <ImageView
                 android:id="@+id/imageView"
-                android:layout_width="140dp"
-                android:layout_height="140dp"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
                 android:src="@drawable/auaf_dark_logo"/>
 
             <TextView
@@ -95,7 +95,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:background="@color/grey"
-                android:layout_marginVertical="@dimen/short_margin"/>
+                android:layout_marginVertical="@dimen/very_short_margin"/>
 
             <com.google.android.material.textfield.TextInputLayout
                 style="@style/ThemeOverlay.Material3.AutoCompleteTextView.OutlinedBox"
@@ -121,7 +121,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:background="@color/grey"
-                android:layout_marginVertical="@dimen/short_margin"/>
+                android:layout_marginVertical="@dimen/very_short_margin"/>
 
             <com.google.android.material.textfield.TextInputLayout
                 style="@style/ThemeOverlay.Material3.AutoCompleteTextView.OutlinedBox"
