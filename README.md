@@ -18,7 +18,7 @@ The Link to the Required Documents (Artifacts) of Scrum Method are linked Below:
 
 <ul>
   <li><a href="https://docs.google.com/document/d/1I_xPwWJl5XaKoO2ti2TO_6tmPje8t3BebKyX2Siiuqs/edit?usp=sharing"> Product Backlog </a> </li>
-  <li><a href="https://docs.google.com/document/d/1EYDv_w52j9ipeOKmKYRGGV7cKlRpTbX4khuiBM8FoUY/edit?usp=sharing"> Sprint Backlog </a></li>
+  <li><a href="https://github.com/imranbaryalai/AUAFSelfServicePortal_Scrum_Project/files/8646598/Sprint.Backlog.xlsx"> Sprint Backlog </a></li>
   <li><a href="#"> Increment Documentation </a> </li>
 </ul>
 
