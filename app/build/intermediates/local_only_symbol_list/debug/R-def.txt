@@ -32,6 +32,7 @@ drawable dashboard_white_rounded_bg
 drawable divider_black
 drawable ic_facebook
 drawable ic_instagram
+drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_linkedin
 drawable ic_round_bba
@@ -57,6 +58,9 @@ font opensans
 id appBarLayout
 id chatCard
 id consLayout1
+id courseIDTV
+id courseNameTV
+id coursePrerequisitesTV
 id coursesCard
 id emailInput
 id facebookBtn
@@ -69,6 +73,7 @@ id loginBtn
 id loginText
 id logoutCard
 id passwordInput
+id recyclerView
 id registerBtn
 id registerText
 id socialMediaCard
@@ -80,6 +85,7 @@ id viewPager
 id welcomeText
 layout bba_courses_fragment
 layout courses_activity
+layout courses_row_activity
 layout dashboard_activity
 layout itcs_coursesfragment
 layout law_courses_fragment
@@ -100,7 +106,9 @@ string student_or_employee_id
 string tab_text_1
 string tab_text_2
 string title_activity_courses
-style Theme.AUAFStuAdvApp
-style Theme.AUAFStuAdvApp.AppBarOverlay
-style Theme.AUAFStuAdvApp.NoActionBar
-style Theme.AUAFStuAdvApp.PopupOverlay
+style Theme.StudentAdvisorPlatform
+style Theme.StudentAdvisorPlatform.AppBarOverlay
+style Theme.StudentAdvisorPlatform.NoActionBar
+style Theme.StudentAdvisorPlatform.PopupOverlay
+xml backup_rules
+xml data_extraction_rules

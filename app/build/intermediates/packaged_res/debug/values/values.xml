@@ -31,7 +31,7 @@
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
     <string name="title_activity_courses">CoursesActivity</string>
-    <style name="Theme.AUAFStuAdvApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <style name="Theme.StudentAdvisorPlatform" parent="Theme.MaterialComponents.Light.NoActionBar">
         
         <item name="colorPrimary">@color/colorPrimaryDark</item>
         <item name="colorPrimaryVariant">@color/colorPrimary</item>
@@ -44,10 +44,10 @@
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
         
     </style>
-    <style name="Theme.AUAFStuAdvApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light"/>
-    <style name="Theme.AUAFStuAdvApp.NoActionBar">
+    <style name="Theme.StudentAdvisorPlatform.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="Theme.StudentAdvisorPlatform.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-    <style name="Theme.AUAFStuAdvApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="Theme.StudentAdvisorPlatform.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
 </resources>

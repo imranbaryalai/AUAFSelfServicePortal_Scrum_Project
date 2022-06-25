@@ -1,52 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nextgendevs.auaf_stu_adv_app"
+    package="com.auaf.studentadvisorplatform"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="21"
-        android:targetSdkVersion="31" />
+        android:minSdkVersion="25"
+        android:targetSdkVersion="32" />
 
     <application
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
+        android:extractNativeLibs="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.AUAFStuAdvApp" >
+        android:theme="@style/Theme.StudentAdvisorPlatform" >
         <activity
-            android:name="com.nextgendevs.auaf_stu_adv_app.CoursesActivity"
+            android:name="com.auaf.studentadvisorplatform.courses.CoursesActivity"
             android:exported="false" />
         <activity
-            android:name="com.nextgendevs.auaf_stu_adv_app.DashboardActivity"
+            android:name="com.auaf.studentadvisorplatform.DashboardActivity"
             android:exported="false" />
         <activity
-            android:name="com.nextgendevs.auaf_stu_adv_app.SplashActivity"
+            android:name="com.auaf.studentadvisorplatform.SplashActivity"
             android:exported="true"
-            android:theme="@style/Theme.AUAFStuAdvApp.NoActionBar" >
+            android:theme="@style/Theme.StudentAdvisorPlatform.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.nextgendevs.auaf_stu_adv_app.LoginActivity" />
-        <activity android:name="com.nextgendevs.auaf_stu_adv_app.RegisterActivity" />
-
-        <uses-library
-            android:name="androidx.window.extensions"
-            android:required="false" />
-        <uses-library
-            android:name="androidx.window.sidecar"
-            android:required="false" />
+        <activity android:name="com.auaf.studentadvisorplatform.LoginActivity" />
+        <activity android:name="com.auaf.studentadvisorplatform.RegisterActivity" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.nextgendevs.auaf_stu_adv_app.androidx-startup"
+            android:authorities="com.auaf.studentadvisorplatform.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

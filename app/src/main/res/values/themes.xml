@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.AUAFStuAdvApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <style name="Theme.StudentAdvisorPlatform" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/colorPrimaryDark</item>
         <item name="colorPrimaryVariant">@color/colorPrimary</item>
@@ -14,12 +14,12 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="Theme.AUAFStuAdvApp.NoActionBar">
+    <style name="Theme.StudentAdvisorPlatform.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
 l
-    <style name="Theme.AUAFStuAdvApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Theme.StudentAdvisorPlatform.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
-    <style name="Theme.AUAFStuAdvApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Theme.StudentAdvisorPlatform.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

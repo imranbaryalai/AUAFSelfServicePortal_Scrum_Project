@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "com.nextgendevs.auaf_stu_adv_app",
+  "applicationId": "com.auaf.studentadvisorplatform",
   "variantName": "debug",
   "elements": []
 }

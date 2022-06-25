@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Blade\\Documents\\GitHub\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "outputFile": "com.auaf.studentadvisorplatform.app-mergeDebugResources-24:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Blade\\.gradle\\caches\\transforms-3\\b07e2ea96ad9bd2cb8ab939ac9c3a895\\transformed\\appcompat-1.4.1\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\imran\\.gradle\\caches\\transforms-3\\8a39463ca7a3527efd979299126c223b\\transformed\\appcompat-1.4.2\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
