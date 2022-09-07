@@ -2476,6 +2476,8 @@ id ALT
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
+id CourseDeptLabel
+id CourseNameLabel
 id FUNCTION
 id META
 id NO_DEBUG
@@ -2595,8 +2597,18 @@ id contiguous
 id coordinator
 id cos
 id counterclockwise
+id courseCreditLabel
+id courseCreditTextView
+id courseDeptTextView
+id courseDescLabel
+id courseDescTextView
+id courseIDLabel
 id courseIDTV
+id courseIDTextView
 id courseNameTV
+id courseNameTextView
+id coursePreReqLabel
+id coursePreReqTextView
 id coursePrerequisitesTV
 id coursesCard
 id custom
@@ -3113,6 +3125,7 @@ layout register_activity
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout single_view_courses_activity
 layout splash_screen_activity
 layout support_simple_spinner_dropdown_item
 layout test_action_chip

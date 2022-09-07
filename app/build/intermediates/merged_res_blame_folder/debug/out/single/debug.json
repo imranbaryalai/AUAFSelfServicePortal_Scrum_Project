@@ -24,10 +24,6 @@
         "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\drawable\\darkblue_button_border_4dp.xml"
     },
     {
-        "merged": "com.auaf.studentadvisorplatform.app-merged_res-26:/layout_itcs_coursesfragment.xml.flat",
-        "source": "com.auaf.studentadvisorplatform.app-main-28:/layout/itcs_coursesfragment.xml"
-    },
-    {
         "merged": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
@@ -72,16 +68,8 @@
         "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.auaf.studentadvisorplatform.app-merged_res-26:/layout_law_courses_fragment.xml.flat",
-        "source": "com.auaf.studentadvisorplatform.app-main-28:/layout/law_courses_fragment.xml"
-    },
-    {
         "merged": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-merged_res-26:\\layout-land_dashboard_activity.xml.flat",
         "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\layout-land\\dashboard_activity.xml"
-    },
-    {
-        "merged": "com.auaf.studentadvisorplatform.app-merged_res-26:/layout_bba_courses_fragment.xml.flat",
-        "source": "com.auaf.studentadvisorplatform.app-main-28:/layout/bba_courses_fragment.xml"
     },
     {
         "merged": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-merged_res-26:\\layout_login_activity.xml.flat",
@@ -128,12 +116,12 @@
         "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-merged_res-26:\\layout_bba_courses_fragment.xml.flat",
-        "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\layout\\bba_courses_fragment.xml"
-    },
-    {
         "merged": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-merged_res-26:\\drawable_ic_round_id_card.xml.flat",
         "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\drawable\\ic_round_id_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-merged_res-26:\\layout_bba_courses_fragment.xml.flat",
+        "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\layout\\bba_courses_fragment.xml"
     },
     {
         "merged": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -236,6 +224,10 @@
         "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
+        "merged": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-merged_res-26:\\layout_single_view_courses_activity.xml.flat",
+        "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\layout\\single_view_courses_activity.xml"
+    },
+    {
         "merged": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-merged_res-26:\\drawable-sw600dp_ic_round_email.xml.flat",
         "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\drawable-sw600dp\\ic_round_email.xml"
     },
@@ -300,16 +292,16 @@
         "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\layout\\law_courses_fragment.xml"
     },
     {
-        "merged": "com.auaf.studentadvisorplatform.app-merged_res-26:/layout_pol_courses_fragment.xml.flat",
-        "source": "com.auaf.studentadvisorplatform.app-main-28:/layout/pol_courses_fragment.xml"
-    },
-    {
         "merged": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-merged_res-26:\\layout-sw600dp_splash_screen_activity.xml.flat",
         "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\layout-sw600dp\\splash_screen_activity.xml"
     },
     {
         "merged": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-merged_res-26:\\drawable-sw600dp_ic_round_social_media.xml.flat",
         "source": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-main-28:\\drawable-sw600dp\\ic_round_social_media.xml"
+    },
+    {
+        "merged": "com.auaf.studentadvisorplatform.app-merged_res-26:/layout_single_view_courses_activity.xml.flat",
+        "source": "com.auaf.studentadvisorplatform.app-main-28:/layout/single_view_courses_activity.xml"
     },
     {
         "merged": "C:\\Users\\imran\\.gradle\\daemon\\7.3.3\\com.auaf.studentadvisorplatform.app-merged_res-26:\\layout_register_activity.xml.flat",

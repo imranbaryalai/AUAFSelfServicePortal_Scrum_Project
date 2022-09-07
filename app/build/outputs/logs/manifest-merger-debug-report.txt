@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-43:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\imran\.gradle\caches\transforms-3\ba8f1b4a2632c0cf5457ff9b45bcdc47\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\imran\.gradle\caches\transforms-3\e94337de3ceb42b0135be1d8a4a9b7db\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\imran\.gradle\caches\transforms-3\67d74bb691c4ec05aa34236cb9cb7aaf\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
@@ -44,25 +44,31 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\imran\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\2fdc444f58f0985dd90434a2dfd41b22\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\8b6dcb5af362fdf92b4433d1caf07205\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\imran\.gradle\caches\transforms-3\2e46ed5707fdca95e02919dff0607977\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-43:12
 	package
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:3:5-46
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:8:5-46
 		INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml
+	android:compileSdkVersionCodename
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:7:5-43
 	android:versionName
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-32:12
 		INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml
-	android:versionCode
-		INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:1-32:12
-		INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:3:5-51
+	android:compileSdkVersion
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:6:5-35
 	xmlns:android
 		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:5:5-30:19
+ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:9:5-42:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\imran\.gradle\caches\transforms-3\e94337de3ceb42b0135be1d8a4a9b7db\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\imran\.gradle\caches\transforms-3\e94337de3ceb42b0135be1d8a4a9b7db\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\imran\.gradle\caches\transforms-3\67d74bb691c4ec05aa34236cb9cb7aaf\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
@@ -77,58 +83,72 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\imran\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\imran\.gradle\caches\transforms-3\05573bc09cc21b73f2cf6ad8a876b023\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\ac09430c90bc06dade8423d5ae21611f\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\imran\.gradle\caches\transforms-3\ac09430c90bc06dade8423d5ae21611f\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:17:9-42
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\imran\.gradle\caches\transforms-3\05817a5203b51b6b896fddf28bf56056\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:11:9-41
+	android:debuggable
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:13:9-34
+	android:testOnly
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:14:9-32
+	tools:ignore
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:19:9-42
 	android:roundIcon
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:18:9-54
 	android:icon
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:11:9-60
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:10:9-60
 activity#com.auaf.studentadvisorplatform.courses.CoursesActivity
-ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:12:9-14:40
+ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:21:9-22:39
 	android:exported
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:14:13-37
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:13:13-52
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:21:19-89
 activity#com.auaf.studentadvisorplatform.DashboardActivity
-ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:15:9-17:40
+ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:24:9-25:39
 	android:exported
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:17:13-37
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:16:13-46
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:24:19-83
 activity#com.auaf.studentadvisorplatform.SplashActivity
-ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:18:9-27:20
+ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:27:9-35:20
 	android:exported
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:20:13-36
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:28:75-98
 	android:theme
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:21:13-76
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:27:19-82
 	android:name
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:19:13-43
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:28:13-74
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:30:13-33:29
 action#android.intent.action.MAIN
-ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:31:17-68
 	android:name
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:32:17-76
 	android:name
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:32:27-74
 activity#com.auaf.studentadvisorplatform.LoginActivity
-ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:28:9-51
+ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:36:9-81
 	android:name
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:28:19-48
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:36:19-79
 activity#com.auaf.studentadvisorplatform.RegisterActivity
-ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:29:9-54
+ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:38:9-84
 	android:name
-		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:29:19-51
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:38:19-82
+activity#com.auaf.studentadvisorplatform.courses.fragements.singleview.CourseSingleView
+ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:40:9-41:38
+	android:exported
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml:40:19-112
 uses-sdk
 INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Projects\StudentAdvisorPlatform\app\src\main\AndroidManifest.xml

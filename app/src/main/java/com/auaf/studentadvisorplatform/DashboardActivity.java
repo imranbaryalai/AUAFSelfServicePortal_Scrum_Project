@@ -1,90 +1,54 @@
 package com.auaf.studentadvisorplatform;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.cardview.widget.CardView;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.cardview.widget.CardView;
 import com.auaf.studentadvisorplatform.courses.CoursesActivity;
 
 public class DashboardActivity extends AppCompatActivity {
-
-    CardView coursesCard;
     CardView chatCard;
-    CardView staffCard;
+    CardView coursesCard;
     CardView galleryCard;
-    CardView socialMediaCard;
     CardView logoutCard;
+    CardView socialMediaCard;
+    CardView staffCard;
 
-
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    /* access modifiers changed from: protected */
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.dashboard_activity);
-
-        coursesCard = findViewById(R.id.coursesCard);
-        chatCard = findViewById(R.id.chatCard);
-        staffCard = findViewById(R.id.staffCard);
-        galleryCard = findViewById(R.id.galleryCard);
-        socialMediaCard = findViewById(R.id.socialMediaCard);
-        logoutCard = findViewById(R.id.logoutCard);
-
-        // Cards OnClickListeners
-
-        coursesCard.setOnClickListener(new View.OnClickListener() {
-            @Override
+        setContentView((int) R.layout.dashboard_activity);
+        this.coursesCard = (CardView) findViewById(R.id.coursesCard);
+        this.chatCard = (CardView) findViewById(R.id.chatCard);
+        this.staffCard = (CardView) findViewById(R.id.staffCard);
+        this.galleryCard = (CardView) findViewById(R.id.galleryCard);
+        this.socialMediaCard = (CardView) findViewById(R.id.socialMediaCard);
+        this.logoutCard = (CardView) findViewById(R.id.logoutCard);
+        this.coursesCard.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent intent = new Intent(DashboardActivity.this, CoursesActivity.class);
-                startActivity(intent);
+                DashboardActivity.this.startActivity(new Intent(DashboardActivity.this, CoursesActivity.class));
             }
         });
-
-        chatCard.setOnClickListener(new View.OnClickListener() {
-            @Override
+        this.chatCard.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                /*
-                Intent intent = new Intent(DashboardActivity.this, CoursesActivity.class);
-                startActivity(intent);
-                 */
             }
         });
-
-        staffCard.setOnClickListener(new View.OnClickListener() {
-            @Override
+        this.staffCard.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                /*
-                Intent intent = new Intent(DashboardActivity.this, CoursesActivity.class);
-                startActivity(intent);
-             */
             }
         });
-
-        galleryCard.setOnClickListener(new View.OnClickListener() {
-            @Override
+        this.galleryCard.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                /*
-                Intent intent = new Intent(DashboardActivity.this, CoursesActivity.class);
-                startActivity(intent);
-                */
             }
         });
-
-        socialMediaCard.setOnClickListener(new View.OnClickListener() {
-            @Override
+        this.socialMediaCard.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                /*
-                Intent intent = new Intent(DashboardActivity.this, CoursesActivity.class);
-                startActivity(intent);
-                 */
             }
         });
-
-        logoutCard.setOnClickListener(new View.OnClickListener() {
-            @Override
+        this.logoutCard.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-               finish();
+                DashboardActivity.this.finish();
             }
         });
     }
